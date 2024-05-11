@@ -1,0 +1,15 @@
+.not-found {
+    margin-top: 100px;
+    padding: 15px;
+    font-family: Poppins, sans-serif;
+    justify-content: center;
+    width: 100%;
+}
+
+.not-found-pikachu{
+    margin-top: 30px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
